@@ -1,24 +1,11 @@
+![image](https://github.com/user-attachments/assets/be01481c-a13b-4d11-8aab-71b83846784e)
+
+# Identifying Frail Older Adults in Long-Term Care Facilities Using Machine Learning on Gait and Daily Physical Activity Data from a Single Accelerometer
+
+![ ](https://github.com/xzheng93/Frailty_Identification/blob/main/Picture1.png)  
+
+This repository contains the python code for using ML to identify Frailty in long term care facilities based on gait and physical activity derived from one accelerometer as presented in[Identifying Frail Older Adults in Long-Term Care Facilities Using Machine Learning on Gait and Daily Physical Activity Data from a Single Accelerometer]().
 
 
-# Explaining Deep Learning Models for Age-related Gait Classification based on time series acceleration
-
-![ ](https://github.com/xzheng93/Explainable_DL/blob/main/fig/study%20pipline%20.png)  
-
-This repository contains the python code for using XAI to explain deep learning in classifying age related gait patterns as presented in [Explaining Deep Learning Models for Age-related Gait Classification based on time series acceleration](https://doi.org/10.1016/j.compbiomed.2024.108739).
-
-```
-@article{zheng2025explaining,
-  title={Explaining deep learning models for age-related gait classification based on acceleration time series},
-  author={Zheng, Xiaoping and Otten, Egbert and Reneman, Michiel F and Lamoth, Claudine JC},
-  journal={Computers in biology and medicine},
-  volume={184},
-  pages={109338},
-  year={2025},
-  publisher={Elsevier}
-}
-```
-
-
-### Data and Reproducibility
-- datasets and models can be found here (will be released soon).
+### code and other documents will be released soon.
 
